@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-welcome Aswin 
-
-added another line for merge conflict
-=======
-welcome Aswin test for merge conflict
->>>>>>> b6a99026afa43502936599872c4b66ccfdf05d7d
